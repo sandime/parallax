@@ -6,6 +6,10 @@
  * Made By MaterializeCSS.com
  */
 
+.song {
+  margin-left: 20px;
+}
+
 nav ul,
 nav .brand-logo {
   color: #444;
